@@ -17,7 +17,7 @@ Is **this** any different than __this__?
 1. süt
 2. ekmek
   2a. bugday
-  2b. beyaz
+  2b. beyaz biriki
 
 Kassa:
 > Wollen Sie eine Jö-Karte?
